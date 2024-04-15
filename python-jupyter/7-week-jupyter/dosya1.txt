@@ -1,0 +1,7 @@
+Merhaba Python dosya dünyası.
+İkinci satıra geçtik!!
+Üçüncü satır çalışmaya devam!!!Merhaba with
+Merhaba with
+Merhaba withMerhaba with
+Merhaba with
+Merhaba with
